@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenderDynamicWeight", "TenderDynamicWeight\TenderDynamicWeight.csproj", "{E9304914-B3B9-4C2D-912A-04677E359E69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9304914-B3B9-4C2D-912A-04677E359E69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9304914-B3B9-4C2D-912A-04677E359E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9304914-B3B9-4C2D-912A-04677E359E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9304914-B3B9-4C2D-912A-04677E359E69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00CC1B13-9AC7-45FA-A61C-0AB55E55EA53}
+	EndGlobalSection
+EndGlobal
